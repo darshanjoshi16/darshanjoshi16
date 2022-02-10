@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @darshanjoshi16
-- 👀 I’m interested problem solving and data analytics and manipulation
+- 👀 I’m interested in problem solving and data analytics and manipulation
 - 🌱 I’m currently pursuing computer engineering
 - 📫 How to reach me -> drop me a mail at darshanjoshi1632@gmail.com
 
