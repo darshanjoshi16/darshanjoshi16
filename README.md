@@ -10,8 +10,8 @@
 
 
           
-<h3><strong>Known Technologies and Framework !!!</strong></h3>
-<p><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" height="30" width="40" /></p><br/>
+<h3><strong>Known Technologies and Framework</strong></h3>
+<p><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" height="100" width="110" /></p><br/>
           
           
           
