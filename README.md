@@ -11,7 +11,9 @@
 
           
 <h3><strong>Known Technologies and Framework</strong></h3>
-<p><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" height="70" width="80" /></p><br/>
+<p><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" height="70" width="80" />
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg" height="70"  width="80"/></p></br>
+          
           
           
           
