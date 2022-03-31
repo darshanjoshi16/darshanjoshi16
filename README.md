@@ -6,12 +6,12 @@
 - 📫 How to reach me -> drop me a mail at darshanjoshi1632@gmail.com
 
 <h3><strong>Connect with Me !!!</strong></h3>
-<p><a href="https://linkedin.com/in/darshan-joshi-bb0227196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash2001" height="30" width="40" /></a></p></br>
+<p><a href="https://linkedin.com/in/darshan-joshi-bb0227196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash2001" height="70" width="80" /></a></p></br>
 
 
           
 <h3><strong>Known Technologies and Framework</strong></h3>
-<p><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" height="100" width="110" /></p><br/>
+<p><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" height="70" width="80" /></p><br/>
           
           
           
