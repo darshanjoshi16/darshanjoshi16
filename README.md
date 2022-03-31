@@ -10,7 +10,8 @@
 
 <h3><strong> Known Technologies and Frameworks</strong></h3>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"></link>
-<i class="devicon-bootstrap-plain-wordmark colored"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+          
           
           
 
