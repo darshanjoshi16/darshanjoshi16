@@ -10,3 +10,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darshanjoshi16&langs_count=8)](https://github.com/darshanjoshi16/)<br/>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darshanjoshi16&" alt="darshanjoshi16" /></p>
+
