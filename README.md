@@ -5,8 +5,10 @@
 - 😎 I love Natural photography, Cricket and Binge Watching the movies for sometimes
 - 📫 How to reach me -> drop me a mail at darshanjoshi1632@gmail.com
 
-Connect with Me !!!
-<p><a href="https://linkedin.com/in/darshan-joshi-bb0227196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash2001" height="30" width="40" /></a></p>
+<h3><strong>Connect with Me !!!</strong></h3>
+<p><a href="https://linkedin.com/in/darshan-joshi-bb0227196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash2001" height="30" width="40" /></a></p></br>
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=darshanjoshi16&show_icons=true&theme=radical)<br/>
 
