@@ -72,6 +72,12 @@
  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" height="70" width="80" />
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="70" width="80"/>
 </p><br/>
+
+<h3><strong> Hosting Technologies! </strong></h3>
+<p>
+    <img align="center" src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg" height="70" width="80"/>
+    <img align="center" src="https://logovtor.com/wp-content/uploads/2020/10/vercel-inc-logo-vector.png" height="70" width="80" />
+</p><br/>
           
 
 
