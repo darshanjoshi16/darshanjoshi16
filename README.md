@@ -1,4 +1,10 @@
-- 👋 Hi, I’m @darshanjoshi16
+<img width="200" height="auto" align="justify-content-center" src="https://github.com/jsm-28415/Personal/blob/main/giphy.gif"/>
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=darshanjoshi16">
+</a>
+<a href="https://github.com/jsm-28415?tab=followers"><img src="https://img.shields.io/github/followers/darshanjoshi16?label=Followers&style=social" alt="GitHub Badge"></a><br/>
+
+-  👋 Hi, I’m @darshanjoshi16
 - 👀 I’m interested in problem solving and data analytics and manipulation
 - 🌱 I’m currently pursuing computer engineering
 - 😂 I’m also having a great sense of humor with additional touch of memeing..
@@ -80,10 +86,14 @@
 </p><br/>
           
 
+<p><img alt="Himanshu Malik Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=darshanjoshi16&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></p><br/>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=darshanjoshi16&show_icons=true&theme=radical)<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darshanjoshi16&langs_count=8)](https://github.com/darshanjoshi16/)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darshanjoshi16&" alt="darshanjoshi16" /></p> </br>
+
+
+
 
