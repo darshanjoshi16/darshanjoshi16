@@ -11,10 +11,6 @@
 - 😎 I love Natural photography, Cricket and Binge Watching the movies for sometimes
 - 📫 How to reach me -> drop me a mail at darshanjoshi1632@gmail.com
 
-<h3><strong>Connect with Me !!!</strong></h3>
-<p><a href="https://linkedin.com/in/darshan-joshi-bb0227196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash2001" height="70" width="80" /></a>
-<a href="https://instagram.com/darshanjoshi._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="darshanjoshi._" height="70" width="80" /></a>
-<a href="https://www.leetcode.com/darshan1620" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="darshan1620" height="70" width="80" /></a></p></br>
 
 <h3><strong> Programming Languages</strong></h3>
 <p>
