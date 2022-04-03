@@ -1,4 +1,4 @@
-<img width="200" height="auto" align="justify-content-center" src="https://github.com/jsm-28415/Personal/blob/main/giphy.gif"/>
+<img width="200" height="auto" align="content-center" src="https://github.com/jsm-28415/Personal/blob/main/giphy.gif"/>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=darshanjoshi16">
 </a>
