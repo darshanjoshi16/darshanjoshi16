@@ -4,6 +4,13 @@
 </a>
 <a href="https://github.com/jsm-28415?tab=followers"><img src="https://img.shields.io/github/followers/darshanjoshi16?label=Followers&style=social" alt="GitHub Badge"></a><br/>
 
+
+<div align="center">
+<span>‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎</span>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=ff1493&size=36&lines=‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎+Hey!+It's+Darshan!;I'm+a+Data+Analyst.;)](https://git.io/typing-svg)
+</div>
+
 -  👋 Hi, I’m @darshanjoshi16
 - 👀 I’m interested in problem solving and data analytics and manipulation
 - 🌱 I’m currently pursuing computer engineering
