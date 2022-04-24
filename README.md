@@ -1,6 +1,4 @@
-<div align="center">
-<img width="auto" height="auto"   src="https://github.com/jsm-28415/Personal/blob/main/giphy.gif"/>
-</div>
+
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
 <img src="https://komarev.com/ghpvc/?username=darshanjoshi16">
 </a>
