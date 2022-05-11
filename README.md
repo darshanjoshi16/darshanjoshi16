@@ -17,6 +17,7 @@
 - 😂 I’m also having a great sense of humor with additional touch of memeing..
 - 😎 I love Natural photography, Cricket and Binge Watching the movies for sometimes
 - 📫 How to reach me -> drop me a mail at darshanjoshi1632@gmail.com
+- ❤️ You can ping me at linkedin or above mail.
 
 
 <h3><strong> Programming Languages</strong></h3>
