@@ -89,10 +89,6 @@
     <img align="center" src="https://logovtor.com/wp-content/uploads/2020/10/vercel-inc-logo-vector.png" height="70" width="80" />
 </p><br/>
  
-<h3><strong>GitHub Trophies!!!</strong></h3>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=jsm-28415&column=8)](https://github-profile-trophy.vercel.app/?username=darshanjoshi16&column=8)
-<br/>
 
 <p><img alt="Himanshu Malik Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=darshanjoshi16&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></p><br/>
 
