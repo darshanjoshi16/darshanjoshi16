@@ -1,8 +1,6 @@
 
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-<img src="https://komarev.com/ghpvc/?username=darshanjoshi16">
-</a>
-<a href="https://github.com/jsm-28415?tab=followers"><img src="https://img.shields.io/github/followers/darshanjoshi16?label=Followers&style=social" alt="GitHub Badge"></a><br/>
+
+
 
 
 <div align="center">
