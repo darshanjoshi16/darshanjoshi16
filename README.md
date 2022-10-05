@@ -90,9 +90,6 @@
 
 <p><img alt="Himanshu Malik Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=darshanjoshi16&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></p><br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=darshanjoshi16&show_icons=true&theme=radical)<br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darshanjoshi16&langs_count=8)](https://github.com/darshanjoshi16/)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darshanjoshi16&" alt="darshanjoshi16" /></p> </br>
 
 
