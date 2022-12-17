@@ -86,9 +86,6 @@
     <img align="center" src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg" height="70" width="80"/>
     <img align="center" src="https://logovtor.com/wp-content/uploads/2020/10/vercel-inc-logo-vector.png" height="70" width="80" />
 </p><br/>
- 
-
-<p><img alt="Himanshu Malik Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=darshanjoshi16&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></p><br/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darshanjoshi16&" alt="darshanjoshi16" /></p> </br>
 
